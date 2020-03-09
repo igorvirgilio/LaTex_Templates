@@ -79,7 +79,7 @@ no final desse relatório o grupo vai estar mais familiarizado com as ferramenta
 
 %\subsection{Primeira Análise}
 
-\begin{enumerate}[a]
+\begin{enumerate}[a)]
   \item Inicie a captura de tráfego na interface de rede disponível. Faça uma primeira análise comparativa dos
   cabeçalhos e formatos dos PDUs do protocolos TCP, UDP e IP. Identifique para cada um deles os campos
   geralmente utilizados na classificação de tráfego.
@@ -89,8 +89,8 @@ no final desse relatório o grupo vai estar mais familiarizado com as ferramenta
   \end{flushleft}
 \end{enumerate}
 
-\begin{enumerate}[b]
-  \item Utilizando o sniffer em modo de captura, proceda à invocação de várias aplicações conhecidas, nomeadamente:\\*
+\begin{enumerate}[b)]
+  \item Utilizando o sniffer em modo de captura, proceda à invocação de várias aplicações conhecidas, nomeadamente:
   \begin{itemize}
       \item Acesso via browser ao URL: http://marco.uminho.pt
       \item Acesso ftp (anonymous): ftp.di.uminho.pt
@@ -113,9 +113,67 @@ no final desse relatório o grupo vai estar mais familiarizado com as ferramenta
 
 \section{Parte 2 - Filtragem de tráfego}
 
+\begin{enumerate}[a)]
+  \item Explore e descreva:
+  \begin{enumerate}[i]
+    \item A utilidade dos filtros de captura e visualização;    
+    \item A sintaxe e semântica dos filtros.\\*
+  \end{enumerate}
+  \par Dê alguns exemplos simples de utilização dos mesmos.
+
+  \begin{flushleft}
+    INICIO RESPOSTA    
+  \end{flushleft}
+\end{enumerate}
 
 
+\begin{enumerate}[b)]
+  \item  Baseando-se nas tramas capturadas acima (1.b), e em outros exemplos que achar conveniente, explore a
+  utilidade e utilização dos filtros de captura e visualização, nomeadamente na captura/visualização de:
+  \begin{itemize}
+    \item protocolos aplicacionais;
+    \item protocolos de transporte;
+    \item endereços IP;
+    \item pacotes com valores específicos nos campos principais dos cabeçalhos de transporte e rede (ver opção
+    "+Expression");
+    \item pacotes com flags de iniciação e termino de conexões TCP;\\*
+  \end{itemize}
+  \par Exemplifique a exploração que realizou, indicando a sintaxe utilizada nos filtros e, muito sucintamente os
+  resultados obtidos.
+  \begin{flushleft}
+    INICIO RESPOSTA
+  \end{flushleft}
+\end{enumerate}
 
+
+\begin{enumerate}[c)]
+  \item Para uma das aplicações que usam o protocolo TCP (e.g. Telnet router-ext), explore a opção "Analyse - Follow TCP Stream". Indique os filtros automaticamente aplicados por essa opção. Discuta eventuais fragilidades
+  de segurança e confidencialidade dos dados.
+  \begin{flushleft}
+    INICIO RESPOSTA    
+  \end{flushleft} 
+\end{enumerate}
+
+
+\begin{enumerate}[d)]
+  \item Analise e identifique dados estatísticos da sua captura de pacotes.
+
+  \begin{flushleft}
+    INICIO RESPOSTA
+  \end{flushleft}
+\end{enumerate}
+
+
+\section{Conclusão}
+  \begin{flushleft}
+    INICIO CONCLUSAO
+
+  \end{flushleft}
+
+\newpage
+
+
+% END OFFICIAL REPORT. BELOW THIS MARK IS TRASH AND TESTS.
 
 \begin{figure}[ht]
 \includegraphics[scale=0.5]{uminho.jpg}
@@ -213,9 +271,9 @@ Download (Hardware acceleratedUDP) & Download speed & Broadcom-based Routers & T
 \end{longtable}
 \end{table}
 %
-\section{Conclusões}
+%\section{Conclusões}
 %
-O experimento é pequeno para mostrar dados conclusivos, mas mostra indícios do comportamento dos parâmetros de maneira bastante consistente. Obviamente, alterações no algoritmo ou alterações na forma como o problema é representado devem alterar esse comportamento.
+\par O experimento é pequeno para mostrar dados conclusivos, mas mostra indícios do comportamento dos parâmetros de maneira bastante consistente. Obviamente, alterações no algoritmo ou alterações na forma como o problema é representado devem alterar esse comportamento.
 
 Futuros trabalhos podem ser feitos usando-se uma metodologia parecida, mas com modificações no algoritmo e no problema para validar os dados aqui obtidos.
 
