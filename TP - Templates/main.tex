@@ -1,4 +1,6 @@
 \documentclass{llncs}
+% Command to remove the content counter
+\setcounter{secnumdepth}{0}
 
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
@@ -66,36 +68,51 @@
 
 \clearpage
 
-\section{Introdução}
+\section{Objetivo}
 
 %
-Insira sua Introdução aqui  \cite{castro}. Insira sua Introdução aqui  Insira sua Introdução aqui   Insira sua Introdução aqui \cite{racket}   Insira sua Introdução aqui   Insira sua Introdução aqui   Insira sua Introdução aqui \cite{deb:agra}   Insira sua Introdução aqui  
+O objetivo desse trabalho é realizar a captura, visualização, análise e filtragem de tráfego de rede, onde 
+no final desse relatório o grupo vai estar mais familiarizado com as ferramentas e os conceitos de captura e análise de tráfego. 
 
 %
-\section{Metodologia}
-%
-Aqui está uma metodologia \emph{incrível}. Aqui está uma metodologia  
-Aqui está uma metodologia Aqui está uma metodologia Aqui está uma metodologia Aqui está uma metodologia 
-Aqui está uma metodologia 
-%
+\section{Parte 1 - Captura e análise de tráfego}
 
-\subsection{Os Modelos}
-%
-Os modelos são caracteres \enquote{X} representados em grades quadradas em três tamanhos diferentes, como mostrado na figura~\ref{fig:xs}.
+%\subsection{Primeira Análise}
 
-\subsection{Testes}
-Testes Testes Testes Testes Testes Testes Testes Testes Testes Testes Testes Testes Testes Testes Testes Testes Testes Testes \par Testes Testes Testes Testes Testes Testes Testes Testes Testes Testes Testes Testes Testes Testes
-\begin{enumerate}
-  \item test1
-  \item test2
-  \item test3
+\begin{enumerate}[a]
+  \item Inicie a captura de tráfego na interface de rede disponível. Faça uma primeira análise comparativa dos
+  cabeçalhos e formatos dos PDUs do protocolos TCP, UDP e IP. Identifique para cada um deles os campos
+  geralmente utilizados na classificação de tráfego.
+  % Start new paragraph using alignment Justification 
+  \begin{flushleft}
+    INICIO RESPOSTA
+  \end{flushleft}
 \end{enumerate}
-\renewcommand{\labelenumiii}{\roman{enumiii}}
-\begin{enumerate}[i]
-  \item test1
-  \item test2
-  \item test3
+
+\begin{enumerate}[b]
+  \item Utilizando o sniffer em modo de captura, proceda à invocação de várias aplicações conhecidas, nomeadamente:\\*
+  \begin{itemize}
+      \item Acesso via browser ao URL: http://marco.uminho.pt
+      \item Acesso ftp (anonymous): ftp.di.uminho.pt
+      \item Acesso em tftp para router-ext (193.136.9.33)
+      \item Acesso via telnet para router-ext (193.136.9.33) ou para\\*
+      router-lab (192.168.90.254)
+      \item Acesso ssh para qualquer host da sala de aula
+      \item Resolução de nomes usando nslookup www.uminho.pt
+      \item traceroute cisco.uminho.pt\\*
+  \end{itemize}
+  \par e construa uma tabela onde, para cada aplicação, conste o protocolo de transporte e a porta de atendimento do
+  servidor (quando aplicável).
+  
+  % Start new paragraph using alignment Justification 
+  \begin{flushleft}
+    INICIO RESPOSTA
+  \end{flushleft}
 \end{enumerate}
+
+
+
+
 
 \begin{figure}[ht]
 \includegraphics[scale=0.5]{uminho.jpg}
