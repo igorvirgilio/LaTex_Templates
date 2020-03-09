@@ -1,0 +1,297 @@
+\documentclass{llncs}
+% Command to remove the content counter
+\setcounter{secnumdepth}{0}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazilian]{babel}
+\usepackage{csquotes}
+\usepackage{hyphenat}
+\hyphenation{pro-ble-ma}
+\usepackage{imakeidx}
+\makeindex[columns=3, title=Alphabetical Index, intoc]
+\usepackage{enumerate}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{array}
+
+% Better handle of numeric things.
+% Configured to French style (same 
+% as Brazilian conventions)
+\usepackage[locale=FR]{siunitx}
+\usepackage{hyperref}
+\usepackage{graphicx}
+\graphicspath{ {images/} }
+\usepackage{longtable}
+\usepackage{listings}
+\setcounter{tocdepth}{1}
+\usepackage{tocbibind}
+
+\begin{document}
+\begin{titlepage}           
+\end{titlepage}
+%%%%%%%%%%%%%%%%%%% TITLE PAGE
+\begin{titlepage}
+  \begin{center}
+    \vspace*{1cm}
+    %%% TITLE
+    \Huge
+    \textbf{Tarefa Prática 2}
+    \vspace{0.5cm}
+    
+    %%% CURRICULAR UNIT
+    \LARGE
+    Modelação e Caracterização de Tráfego
+    %%% AUTHORS    
+    \vspace{1.0cm}
+    \small
+    \textbf{\\PG39254 - Igor Araújo\\PG39255 - Matheus Gonçalves\\PG41017 - I-Ping}
+    
+    %%% LOGO
+    \vspace{1.0cm}
+    \begin{figure}[ht]
+    \includegraphics[width=0.8\textwidth]{uminho.jpg}
+    \centering
+    \end{figure}
+    
+    % FOOTER
+    \vspace{4.5cm}
+    Departamento de Informática\\
+    Universidade do Minho\\
+    Braga - Portugal\\
+    \today
+          
+  \end{center}
+\end{titlepage}
+
+\tableofcontents
+
+\clearpage
+
+\section{Objetivo}
+
+%
+O objetivo desse trabalho é realizar a captura, visualização, análise e filtragem de tráfego de rede, onde 
+no final desse relatório o grupo vai estar mais familiarizado com as ferramentas e os conceitos de captura e análise de tráfego. 
+
+%
+\section{Parte 1 - Captura e análise de tráfego}
+
+%\subsection{Primeira Análise}
+
+\begin{enumerate}[a)]
+  \item Inicie a captura de tráfego na interface de rede disponível. Faça uma primeira análise comparativa dos
+  cabeçalhos e formatos dos PDUs do protocolos TCP, UDP e IP. Identifique para cada um deles os campos
+  geralmente utilizados na classificação de tráfego.
+  % Start new paragraph using alignment Justification 
+  \begin{flushleft}
+    INICIO RESPOSTA
+  \end{flushleft}
+\end{enumerate}
+
+\begin{enumerate}[b)]
+  \item Utilizando o sniffer em modo de captura, proceda à invocação de várias aplicações conhecidas, nomeadamente:
+  \begin{itemize}
+      \item Acesso via browser ao URL: http://marco.uminho.pt
+      \item Acesso ftp (anonymous): ftp.di.uminho.pt
+      \item Acesso em tftp para router-ext (193.136.9.33)
+      \item Acesso via telnet para router-ext (193.136.9.33) ou para\\*
+      router-lab (192.168.90.254)
+      \item Acesso ssh para qualquer host da sala de aula
+      \item Resolução de nomes usando nslookup www.uminho.pt
+      \item traceroute cisco.uminho.pt\\*
+  \end{itemize}
+  \par e construa uma tabela onde, para cada aplicação, conste o protocolo de transporte e a porta de atendimento do
+  servidor (quando aplicável).
+  
+  % Start new paragraph using alignment Justification 
+  \begin{flushleft}
+    INICIO RESPOSTA
+  \end{flushleft}
+\end{enumerate}
+
+
+\section{Parte 2 - Filtragem de tráfego}
+
+\begin{enumerate}[a)]
+  \item Explore e descreva:
+  \begin{enumerate}[i]
+    \item A utilidade dos filtros de captura e visualização;    
+    \item A sintaxe e semântica dos filtros.\\*
+  \end{enumerate}
+  \par Dê alguns exemplos simples de utilização dos mesmos.
+
+  \begin{flushleft}
+    INICIO RESPOSTA    
+  \end{flushleft}
+\end{enumerate}
+
+
+\begin{enumerate}[b)]
+  \item  Baseando-se nas tramas capturadas acima (1.b), e em outros exemplos que achar conveniente, explore a
+  utilidade e utilização dos filtros de captura e visualização, nomeadamente na captura/visualização de:
+  \begin{itemize}
+    \item protocolos aplicacionais;
+    \item protocolos de transporte;
+    \item endereços IP;
+    \item pacotes com valores específicos nos campos principais dos cabeçalhos de transporte e rede (ver opção
+    "+Expression");
+    \item pacotes com flags de iniciação e termino de conexões TCP;\\*
+  \end{itemize}
+  \par Exemplifique a exploração que realizou, indicando a sintaxe utilizada nos filtros e, muito sucintamente os
+  resultados obtidos.
+  \begin{flushleft}
+    INICIO RESPOSTA
+  \end{flushleft}
+\end{enumerate}
+
+
+\begin{enumerate}[c)]
+  \item Para uma das aplicações que usam o protocolo TCP (e.g. Telnet router-ext), explore a opção "Analyse - Follow TCP Stream". Indique os filtros automaticamente aplicados por essa opção. Discuta eventuais fragilidades
+  de segurança e confidencialidade dos dados.
+  \begin{flushleft}
+    INICIO RESPOSTA    
+  \end{flushleft} 
+\end{enumerate}
+
+
+\begin{enumerate}[d)]
+  \item Analise e identifique dados estatísticos da sua captura de pacotes.
+
+  \begin{flushleft}
+    INICIO RESPOSTA
+  \end{flushleft}
+\end{enumerate}
+
+
+\section{Conclusão}
+  \begin{flushleft}
+    INICIO CONCLUSAO
+
+  \end{flushleft}
+
+\newpage
+
+
+% END OFFICIAL REPORT. BELOW THIS MARK IS TRASH AND TESTS.
+
+\begin{figure}[ht]
+\includegraphics[scale=0.5]{uminho.jpg}
+\centering
+\caption{\enquote{X} em modelos de tamanhos diferentes}
+\label{fig:xs}
+\end{figure}
+
+%
+\section{Resultados}
+%
+Os resultados dos experimentos se encontram na tabela 1. 
+
+\begin{table}
+\centering
+\begin{tabular}{|c|S|c|c|c|c|c|c|c|c|}
+\hline
+\multicolumn{3}{|c|}{Parâmetros} & \multicolumn{5}{|c|}{Geração até chegar à solução} & \multicolumn{2}{|c|}{Desempenho} \\ 
+\hline
+Grade & Mutação & População & \multicolumn{2}{|c|}{95\% de confiança} & 1º Quartil & Mediana & 3º Quartil & Indivíduos & IC \\ 
+\hline
+3x3 & 0.1 & 10 & 2 & 1000 & 16 & 167 & 435 & 1670 & 96,17\%\\ 
+\hline
+3x3 & 0.01 & 10 & 1 & 1000 & 12 & 132 & 383 & 1320 & 92,42\%\\ 
+\hline
+3x3 & 0.001 & 10 & 2 & 1000 & 40 & 197 & 430 & 1970 & 97,87\%\\ 
+\hline
+3x3 & 0 & 10 & 2 & 1000 & 32 & 135 & 404 & 1350 & 92,85\%\\ 
+\hline
+3x3 & 0.1 & 100 & 1 & 6 & 2 & 3 & 4 & 300 & 44,37\%\\ 
+\hline
+3x3 & 0.01 & 100 & 1 & 7 & 2 & 3 & 4 & 300 & 44,37\%\\ 
+\hline
+3x3 & 0.001 & 100 & 1 & 7 & 2 & 3 & 4 & 300 & 44,37\%\\ 
+\hline
+3x3 & 0 & 100 & 1 & 8 & 2 & 3 & 4 & 300 & 44,37\%\\ 
+\hline
+3x3 & 0.1 & 1000 & 1 & 2 & 1 & 1 & 1 & 1000 & 85,84\%\\ 
+\hline
+3x3 & 0.01 & 1000 & 1 & 2 & 1 & 1 & 1 & 1000 & 85,84\%\\ 
+\hline
+3x3 & 0.001 & 1000 & 1 & 2 & 1 & 1 & 1 & 1000 & 85,84\%\\ 
+\hline
+3x3 & 0 & 1000 & 1 & 3 & 1 & 1 & 1 & 1000 & 85,84\%\\ 
+\hline
+4x4 & 0.1 & 10 & 406 & 1000 & 1000 & 1000 & 1000 & 10000 & \\ 
+\hline
+4x4 & 0.01 & 10 & 535 & 1000 & 1000 & 1000 & 1000 & 10000 & \\ 
+\hline
+4x4 & 0.001 & 10 & 241 & 1000 & 1000 & 1000 & 1000 & 10000 & \\ 
+\hline
+4x4 & 0 & 10 & 185 & 1000 & 1000 & 1000 & 1000 & 10000 & \\ 
+\hline
+4x4 & 0.1 & 100 & 5 & 27 & 11 & 14 & 17 & 1400 & 2,11\%\\ 
+\hline
+
+\hline
+\hline\end{tabular}
+\label{tab:resultados}
+\caption{\small{Resultados brutos}} 
+\end{table}
+
+\newpage
+\section{Anexo I}
+\label{sec:anexo_I}
+
+\begin{table}
+\centering
+\begin{longtable}{p{.20\textwidth} p{.20\textwidth} p{.20\textwidth} p{.40\textwidth}}
+\label{tbl:2}
+
+%\begin{tabular}{p{2cm}|p{2cm}|p{2cm}|p{8cm}}
+
+\\\textbf{Test} & \textbf{Metric} & \textbf{Plataform} & \textbf{Description}\\
+\hline\hline
+Download (TCP) & Download speed & Whiteboxes, Routers, Android, iOS & The download speed in Mbps when downloading (using TCP) random bytes from a test server \\ 
+\hline 
+  & TCP Retransmissions & Whiteboxes, Routers & The number of retransmitted TCP segments/packets \\ 
+\hline
+  & Burst download speed & Whiteboxes, Routers & The download speed during the first 5 seconds of a test \\ 
+\hline 
+  & Sustained download speed & Whiteboxes, Routers & The download speed of the test during the last 5 seconds \\ 
+\hline 
+  & Percentage of Best & Whiteboxes, Routers & Download speed result as a percentage of the user's best ever result \\ 
+\hline 
+  & Percentage of Advertised & Whiteboxes, Routers & Download speed result as a percentage of their package's advertised downstream speed \\ 
+\hline 
+Download (HTML5) & Download speed & Web & The download speed in Mbps when downloading (using TCP) random bytes from a test server using HTML5 APIs(WebSockets and Fetch) \\ 
+\hline 
+Download (Lightweight UDP) & Download speed & Whiteboxes, Routers & The download speed in Mbps when downloading (using UDP) from a test server, using less data than the TCP test \\ 
+\hline 
+Download (Hardware acceleratedUDP) & Download speed & Broadcom-based Routers & The download speed in Mbps when downloading (using UDP) random bytes from a test server \\
+\hline 
+\caption{Tabela com alguns exemplos}
+\end{longtable}
+\end{table}
+%
+%\section{Conclusões}
+%
+\par O experimento é pequeno para mostrar dados conclusivos, mas mostra indícios do comportamento dos parâmetros de maneira bastante consistente. Obviamente, alterações no algoritmo ou alterações na forma como o problema é representado devem alterar esse comportamento.
+
+Futuros trabalhos podem ser feitos usando-se uma metodologia parecida, mas com modificações no algoritmo e no problema para validar os dados aqui obtidos.
+
+%
+% ---- Bibliography ----
+%
+\begin{thebibliography}{5}
+%
+
+\bibitem {castro}
+de Castro, L.N.: Fundamentals of Natural Computing: Basic Concepts, Algorithms, and Applications. CRC Press (2006).
+
+\bibitem{racket}
+Felleisen, M., Findler, R.B., Flatt, M.: The Racket Manifesto. LIPIcs-Leibniz. (2015).
+
+\bibitem{deb:agra}
+Deb, K., Agrawal, S.: Understanding interactions among genetic algorithm parameters. Foundations of Genetic Algorithms. (1999).
+
+\end{thebibliography}
+
+\end{document}
