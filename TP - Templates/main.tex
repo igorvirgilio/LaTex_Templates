@@ -75,22 +75,29 @@ O objetivo desse trabalho é realizar a captura, visualização, análise e filt
 no final desse relatório o grupo vai estar mais familiarizado com as ferramentas e os conceitos de captura e análise de tráfego. 
 
 %
-\section{Parte 1 - Captura e análise de tráfego}
+\section{Parte I - Captura e análise de tráfego}
 
 %\subsection{Primeira Análise}
 
-\begin{enumerate}[a)]
-  \item Inicie a captura de tráfego na interface de rede disponível. Faça uma primeira análise comparativa dos
-  cabeçalhos e formatos dos PDUs do protocolos TCP, UDP e IP. Identifique para cada um deles os campos
-  geralmente utilizados na classificação de tráfego.
+\begin{enumerate}[\textbf{a)}]
+  \item \textbf{ Inicie a captura de tráfego na interface de rede disponível. Faça uma primeira análise comparativa dos cabeçalhos e formatos dos PDUs do protocolos TCP, UDP e IP. Identifique para cada um deles os campos geralmente utilizados na classificação de tráfego:}
+  \vspace{5mm}
   % Start new paragraph using alignment Justification 
-  \begin{flushleft}
-    INICIO RESPOSTA
-  \end{flushleft}
+    \par O protocolo TCP possui header que contém diversos campos, mas os campos que são utilizados geralmente para identificação e classificação de um tráfego são as portas de origem e destino, e da mesma maneira para o UDP. Além destas, para a melhor classificação do tráfego é utilizado também os campos da PDU da camada de redes IP, que utilizam os endereços de origem e destino IP o número de protocolo, assim é formada a 5 tupla. Em posse desses parâmetros é possível em muitos casos classificar o tráfego. Porém a cada dia novas aplicações com diversos tipos de tráfegos são enviadas através de tráfegos encriptados o que torna ainda mais difícil sua identificação e classificação. Pode-se observar tais campos mencionados na figura~\ref{fig:PDU}.
+    
+  
+  \begin{figure}[h]
+    \includegraphics[scale=0.65]{PDU.png}
+    \centering
+    \caption{Exemplificação de PDU.}
+    \label{fig:PDU}
+    \end{figure}
 \end{enumerate}
 
-\begin{enumerate}[b)]
-  \item Utilizando o sniffer em modo de captura, proceda à invocação de várias aplicações conhecidas, nomeadamente:
+
+\begin{enumerate}[\textbf{b)}]
+  \item \textbf{Utilizando o sniffer em modo de captura, proceda à invocação de várias aplicações conhecidas, nomeadamente:}
+  \vspace{5mm}
   \begin{itemize}
       \item Acesso via browser ao URL: http://marco.uminho.pt
       \item Acesso ftp (anonymous): ftp.di.uminho.pt
@@ -99,25 +106,45 @@ no final desse relatório o grupo vai estar mais familiarizado com as ferramenta
       router-lab (192.168.90.254)
       \item Acesso ssh para qualquer host da sala de aula
       \item Resolução de nomes usando nslookup www.uminho.pt
-      \item traceroute cisco.uminho.pt\\*
+      \item traceroute cisco.uminho.pt
   \end{itemize}
-  \par e construa uma tabela onde, para cada aplicação, conste o protocolo de transporte e a porta de atendimento do
-  servidor (quando aplicável).
+  \par \textbf{e construa uma tabela onde, para cada aplicação, conste o protocolo de transporte e a porta de atendimento do
+  servidor (quando aplicável).}
   
   % Start new paragraph using alignment Justification 
-  \begin{flushleft}
-    INICIO RESPOSTA
-  \end{flushleft}
+  \vspace{5mm}
+  INICIO RESPOSTA
+   
+  \begin{table}[h!]
+    \centering
+    \begin{tabular}{p{4.4cm}  p{3cm}  p{3cm}} 
+     \hline
+     \textbf{Protocolo de Transporte} & \textbf{Porta de Origem} & \textbf{Porta de Destino}\\ [1ex] 
+     \hline\hline
+     HTTP & 6 & 87837 \\ [1ex]
+     FTP & 7 & 78 \\ [1ex]
+     TFTP &  & 69 \\ [1ex]
+     TELNET & 545 & 23 \\ [1ex]
+     SSH & 88 & 22 \\ [1ex]
+     DNS & 88 & 53 \\ [1ex]
+     ICMP & 88 & 53 \\ [1ex] 
+     \hline
+    \end{tabular}
+    \caption{Tabela de aplicações}
+    \label{table:1}
+    \end{table}
+
+
 \end{enumerate}
 
 
 \section{Parte 2 - Filtragem de tráfego}
 
-\begin{enumerate}[a)]
+\begin{enumerate}[\textbf{a)}]
   \item Explore e descreva:
   \begin{enumerate}[i]
     \item A utilidade dos filtros de captura e visualização;    
-    \item A sintaxe e semântica dos filtros.\\*
+    \item A sintaxe e semântica dos filtros.
   \end{enumerate}
   \par Dê alguns exemplos simples de utilização dos mesmos.
 
@@ -127,7 +154,7 @@ no final desse relatório o grupo vai estar mais familiarizado com as ferramenta
 \end{enumerate}
 
 
-\begin{enumerate}[b)]
+\begin{enumerate}[\textbf{b)}]
   \item  Baseando-se nas tramas capturadas acima (1.b), e em outros exemplos que achar conveniente, explore a
   utilidade e utilização dos filtros de captura e visualização, nomeadamente na captura/visualização de:
   \begin{itemize}
@@ -136,7 +163,7 @@ no final desse relatório o grupo vai estar mais familiarizado com as ferramenta
     \item endereços IP;
     \item pacotes com valores específicos nos campos principais dos cabeçalhos de transporte e rede (ver opção
     "+Expression");
-    \item pacotes com flags de iniciação e termino de conexões TCP;\\*
+    \item pacotes com flags de iniciação e termino de conexões TCP;
   \end{itemize}
   \par Exemplifique a exploração que realizou, indicando a sintaxe utilizada nos filtros e, muito sucintamente os
   resultados obtidos.
@@ -146,7 +173,7 @@ no final desse relatório o grupo vai estar mais familiarizado com as ferramenta
 \end{enumerate}
 
 
-\begin{enumerate}[c)]
+\begin{enumerate}[\textbf{c)}]
   \item Para uma das aplicações que usam o protocolo TCP (e.g. Telnet router-ext), explore a opção "Analyse - Follow TCP Stream". Indique os filtros automaticamente aplicados por essa opção. Discuta eventuais fragilidades
   de segurança e confidencialidade dos dados.
   \begin{flushleft}
@@ -155,7 +182,7 @@ no final desse relatório o grupo vai estar mais familiarizado com as ferramenta
 \end{enumerate}
 
 
-\begin{enumerate}[d)]
+\begin{enumerate}[\textbf{d)}]
   \item Analise e identifique dados estatísticos da sua captura de pacotes.
 
   \begin{flushleft}
@@ -175,12 +202,7 @@ no final desse relatório o grupo vai estar mais familiarizado com as ferramenta
 
 % END OFFICIAL REPORT. BELOW THIS MARK IS TRASH AND TESTS.
 
-\begin{figure}[ht]
-\includegraphics[scale=0.5]{uminho.jpg}
-\centering
-\caption{\enquote{X} em modelos de tamanhos diferentes}
-\label{fig:xs}
-\end{figure}
+
 
 %
 \section{Resultados}
