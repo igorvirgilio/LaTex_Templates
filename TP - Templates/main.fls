@@ -1,19 +1,19 @@
-PWD c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates
+PWD c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates
 INPUT C:\Users\igorv\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\main.tex
-OUTPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\main.log
-INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\llncs.cls
-INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\llncs.cls
+INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\main.tex
+OUTPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\main.log
+INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\llncs.cls
+INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\llncs.cls
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol.sty
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\multicol.sty
-INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\aliascnt.sty
-INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\aliascnt.sty
-INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\remreset.sty
-INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\remreset.sty
+INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\aliascnt.sty
+INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\aliascnt.sty
+INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\remreset.sty
+INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\remreset.sty
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fontenc.sty
@@ -52,7 +52,7 @@ INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\iftex.s
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\iftex.sty
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifluatex.sty
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\iftex\ifluatex.sty
-OUTPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\main.idx
+OUTPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\main.idx
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\enumerate.sty
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\enumerate.sty
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty
@@ -148,9 +148,9 @@ INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listin
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.cfg
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tocbibind\tocbibind.sty
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tocbibind\tocbibind.sty
-INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\main.aux
-INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\main.aux
-OUTPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\main.aux
+INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\main.aux
+INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\main.aux
+OUTPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\main.aux
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-basic-dictionary-English.dict
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-basic-dictionary-English.dict
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx-abbreviations.cfg
@@ -161,14 +161,14 @@ INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\refcount\refcou
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\refcount\refcount.sty
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\gettitlestring\gettitlestring.sty
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\generic\gettitlestring\gettitlestring.sty
-INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\main.out
-INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\main.out
-INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\main.out
-INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\main.out
-OUTPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\main.pdf
-INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\main.out
-INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\main.out
-OUTPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\main.out
+INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\main.out
+INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\main.out
+INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\main.out
+INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\main.out
+OUTPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\main.pdf
+INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\main.out
+INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\main.out
+OUTPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\main.out
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\tex\latex\epstopdf-pkg\epstopdf-base.sty
@@ -196,23 +196,23 @@ INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecb
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm1728.tfm
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm0900.tfm
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecbx0900.tfm
-INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\images\uminho.jpg
-INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\images\uminho.jpg
-INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\images\uminho.jpg
-INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\images\uminho.jpg
-INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\images\uminho.jpg
+INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\images\uminho.jpg
+INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\images\uminho.jpg
+INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\images\uminho.jpg
+INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\images\uminho.jpg
+INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\images\uminho.jpg
 INPUT C:\Users\igorv\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm1440.tfm
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecbx1440.tfm
-INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\main.toc
-INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\main.toc
+INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\main.toc
+INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\main.toc
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecrm1200.tfm
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecbx1200.tfm
-OUTPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\main.toc
+OUTPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\main.toc
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecti1000.tfm
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecbx1000.tfm
-INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\images\uminho.jpg
-INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\images\uminho.jpg
+INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\images\uminho.jpg
+INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\images\uminho.jpg
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr9.tfm
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi9.tfm
@@ -230,9 +230,9 @@ INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\igorv\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\tcrm0900.tfm
-INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\main.aux
-INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\main.out
-INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Templates\LaTEX\LaTex_Templates\TP - Templates\main.out
+INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\main.aux
+INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\main.out
+INPUT c:\Users\igorv\OneDrive\PASTA PESSOAL\Imigração\Portugal\Mestrado\Matérias\2019_2020 - 2 semestre\Sexta\Modelação e Caraterização de Tráfego\TP2\New Repository\LaTex_Templates\TP - Templates\main.out
 INPUT C:\Users\igorv\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm0900.pk
 INPUT C:\Users\igorv\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm0900.pk
 INPUT C:\Users\igorv\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1000.pk
