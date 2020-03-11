@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.6)  9 MAR 2020 19:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.6)  11 MAR 2020 22:03
 entering extended mode
 **"c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/main.tex"
 ("c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/main.tex"
@@ -601,175 +601,214 @@ Package pdftex.def Info: images/uminho.jpg  used on input line 53.
 ]
 
 LaTeX Warning: The counter will not be printed.
-             The label is: b) on input line 92.
+             The label is: \textbf {a)} on input line 82.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 102--103
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 120--121
-
- []
-
+<images/PDU.png, id=62, 386.04225pt x 307.74976pt>
+File: images/PDU.png Graphic file (type png)
+<use images/PDU.png>
+Package pdftex.def Info: images/PDU.png  used on input line 90.
+(pdftex.def)             Requested size: 250.92448pt x 200.03496pt.
 
 LaTeX Warning: The counter will not be printed.
-             The label is: b) on input line 130.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 139--140
-
- []
+             The label is: \textbf {b)} on input line 98.
 
 [3
 
-]
+ <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/PDU.png>]
 
 LaTeX Warning: The counter will not be printed.
-             The label is: c) on input line 149.
+             The label is: \textbf {a)} on input line 142.
 
 
 LaTeX Warning: The counter will not be printed.
-             The label is: d) on input line 158.
+             The label is: \textbf {b)} on input line 155.
 
 [4]
-File: images/uminho.jpg Graphic file (type jpg)
-<use images/uminho.jpg>
-Package pdftex.def Info: images/uminho.jpg  used on input line 179.
-(pdftex.def)             Requested size: 256.95937pt x 127.9778pt.
 
-Overfull \hbox (41.65172pt too wide) in paragraph at lines 192--236
+LaTeX Warning: The counter will not be printed.
+             The label is: \textbf {c)} on input line 174.
+
+<images/stream1.png, id=83, 453.19313pt x 83.5622pt>
+File: images/stream1.png Graphic file (type png)
+<use images/stream1.png>
+Package pdftex.def Info: images/stream1.png  used on input line 182.
+(pdftex.def)             Requested size: 294.57204pt x 54.31477pt.
+<images/stream2.png, id=85, 453.19313pt x 137.7647pt>
+File: images/stream2.png Graphic file (type png)
+<use images/stream2.png>
+Package pdftex.def Info: images/stream2.png  used on input line 192.
+(pdftex.def)             Requested size: 294.57204pt x 89.54597pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/followstream.png, id=88, 299.61937pt x 272.51813pt>
+File: images/followstream.png Graphic file (type png)
+<use images/followstream.png>
+Package pdftex.def Info: images/followstream.png  used on input line 203.
+(pdftex.def)             Requested size: 194.75027pt x 177.13467pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5 <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/stream1.png>]
+
+LaTeX Warning: The counter will not be printed.
+             The label is: \textbf {d)} on input line 216.
+
+<images/conversation01.png, id=98, 453.19313pt x 340.27126pt>
+File: images/conversation01.png Graphic file (type png)
+<use images/conversation01.png>
+Package pdftex.def Info: images/conversation01.png  used on input line 226.
+(pdftex.def)             Requested size: 294.57204pt x 221.17369pt.
+[6 <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/stream2.png> <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/followstream.png>]
+<images/statistic.png, id=105, 453.19313pt x 185.19188pt>
+File: images/statistic.png Graphic file (type png)
+<use images/statistic.png>
+Package pdftex.def Info: images/statistic.png  used on input line 236.
+(pdftex.def)             Requested size: 294.57204pt x 120.37328pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/details.png, id=107, 451.6875pt x 423.08063pt>
+File: images/details.png Graphic file (type png)
+<use images/details.png>
+Package pdftex.def Info: images/details.png  used on input line 246.
+(pdftex.def)             Requested size: 293.59338pt x 274.99915pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7 <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/conversation01.png>]
+Overfull \hbox (41.65172pt too wide) in paragraph at lines 276--320
  [][] 
  []
 
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 252--252
+[8 <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/statistic.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
 []|\T1/cmr/m/n/9 Whiteboxes,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 252--252
+Underfull \hbox (badness 10000) in paragraph at lines 336--336
 \T1/cmr/m/n/9 Rou-ters, An-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 254--254
+Underfull \hbox (badness 10000) in paragraph at lines 338--338
 []|\T1/cmr/m/n/9 TCP Re-trans-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 254--254
+Underfull \hbox (badness 10000) in paragraph at lines 338--338
 []|\T1/cmr/m/n/9 Whiteboxes,
  []
 
 
-Underfull \hbox (badness 4582) in paragraph at lines 256--256
+Underfull \hbox (badness 4582) in paragraph at lines 340--340
 []|\T1/cmr/m/n/9 Burst down-load
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 256--256
+Underfull \hbox (badness 10000) in paragraph at lines 340--340
 []|\T1/cmr/m/n/9 Whiteboxes,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--258
+Underfull \hbox (badness 10000) in paragraph at lines 342--342
 []|\T1/cmr/m/n/9 Whiteboxes,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--260
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
 []|\T1/cmr/m/n/9 Percentage of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--260
+Underfull \hbox (badness 10000) in paragraph at lines 344--344
 []|\T1/cmr/m/n/9 Whiteboxes,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--262
+Underfull \hbox (badness 10000) in paragraph at lines 346--346
 []|\T1/cmr/m/n/9 Percentage of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 262--262
+Underfull \hbox (badness 10000) in paragraph at lines 346--346
 []|\T1/cmr/m/n/9 Whiteboxes,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 264--264
+Underfull \hbox (badness 10000) in paragraph at lines 348--348
 []|\T1/cmr/m/n/9 Download
  []
 
 
-Underfull \hbox (badness 3302) in paragraph at lines 264--265
+Underfull \hbox (badness 3302) in paragraph at lines 348--349
 []|\T1/cmr/m/n/9 The down-load speed in Mbps
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 264--265
+Underfull \hbox (badness 1394) in paragraph at lines 348--349
 \T1/cmr/m/n/9 using HTML5 APIs(WebSockets
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 266--266
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
 []|\T1/cmr/m/n/9 Download
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 266--266
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
 \T1/cmr/m/n/9 (Lightweight
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 266--266
+Underfull \hbox (badness 10000) in paragraph at lines 350--350
 []|\T1/cmr/m/n/9 Whiteboxes,
  []
 
 
-Underfull \hbox (badness 3189) in paragraph at lines 268--268
+Underfull \hbox (badness 3189) in paragraph at lines 352--352
 \T1/cmr/m/n/9 ware ac-ce-le-ra-te-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 268--268
+Underfull \hbox (badness 10000) in paragraph at lines 352--352
 []|\T1/cmr/m/n/9 Broadcom-based
  []
 
 
-Overfull \hbox (11.19464pt too wide) in alignment at lines 245--271
+Overfull \hbox (11.19464pt too wide) in alignment at lines 329--355
  [] [] [] [] 
  []
 
 
-Overfull \vbox (200.79764pt too high) has occurred while \output is active []
+Overfull \vbox (256.74649pt too high) has occurred while \output is active []
 
- [6]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 297.
- [7
+ [9 <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/details.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 381.
+ [10
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 297.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 381.
  ("c:/Users\Matheus\OneDrive - Universidade do Minho\MERSTEL\Semestre-02\Modelação e Caraterização de Tráfego\TP2\LaTex_Templates\TP - Templates\main.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 297.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 297.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 381.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 381.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 20B98A48A85084B6D2DC3295EBCB000D;486.
+(rerunfilecheck)             Checksum: 74ECCBFCD92CF863FA8EF1921B9D2D68;486.
  ) 
 Here is how much of TeX's memory you used:
- 13138 strings out of 481311
- 235093 string characters out of 2907188
- 531154 words of memory out of 3000000
- 28355 multiletter control sequences out of 15000+200000
+ 13198 strings out of 481311
+ 236138 string characters out of 2907188
+ 519460 words of memory out of 3000000
+ 28397 multiletter control sequences out of 15000+200000
  548303 words of font info for 66 fonts, out of 3000000 for 9000
  1142 hyphenation exceptions out of 8191
- 35i,12n,41p,963b,918s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 35i,12n,41p,966b,944s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Matheus\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0900.pk> <C:\Users\Matheus\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Matheus\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Matheus\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Matheus\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Matheus\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\Matheus\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk> <C:\Users\Matheus\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk> <C:\Users\Matheus\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk><C:/Users/Matheus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Matheus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/Matheus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on "c:/Users\Matheus\OneDrive - Universidade do Minho\MERSTEL\Semestre-02\Modelação e Caraterização de Tráfego\TP2\LaTex_Templates\TP - Templates\main.pdf" (7 pages, 152291 bytes).
+Output written on "c:/Users\Matheus\OneDrive - Universidade do Minho\MERSTEL\Semestre-02\Modelação e Caraterização de Tráfego\TP2\LaTex_Templates\TP - Templates\main.pdf" (10 pages, 653631 bytes).
 PDF statistics:
- 414 PDF objects out of 1000 (max. 8388607)
- 30 named destinations out of 1000 (max. 500000)
- 70 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 515 PDF objects out of 1000 (max. 8388607)
+ 40 named destinations out of 1000 (max. 500000)
+ 105 words of extra memory for PDF output out of 10000 (max. 10000000)
 
