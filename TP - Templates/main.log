@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.6)  11 MAR 2020 22:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.6)  13 MAR 2020 13:14
 entering extended mode
 **"c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/main.tex"
 ("c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/main.tex"
@@ -585,7 +585,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 30.
  ("C:\Users\Matheus\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<images/uminho.jpg, id=35, 513.92pt x 255.95625pt>
+<images/uminho.jpg, id=23, 513.92pt x 255.95625pt>
 File: images/uminho.jpg Graphic file (type jpg)
 <use images/uminho.jpg>
 Package pdftex.def Info: images/uminho.jpg  used on input line 53.
@@ -601,214 +601,198 @@ Package pdftex.def Info: images/uminho.jpg  used on input line 53.
 ]
 
 LaTeX Warning: The counter will not be printed.
-             The label is: \textbf {a)} on input line 82.
+             The label is: \textbf {a)} on input line 80.
 
-<images/PDU.png, id=62, 386.04225pt x 307.74976pt>
+<images/PDU.png, id=47, 386.04225pt x 307.74976pt>
 File: images/PDU.png Graphic file (type png)
 <use images/PDU.png>
-Package pdftex.def Info: images/PDU.png  used on input line 90.
+Package pdftex.def Info: images/PDU.png  used on input line 88.
 (pdftex.def)             Requested size: 250.92448pt x 200.03496pt.
 
 LaTeX Warning: The counter will not be printed.
-             The label is: \textbf {b)} on input line 98.
+             The label is: \textbf {b)} on input line 96.
 
 [3
 
  <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/PDU.png>]
 
 LaTeX Warning: The counter will not be printed.
-             The label is: \textbf {a)} on input line 142.
+             The label is: \textbf {a)} on input line 140.
 
+<images/filter01.png, id=57, 1028.34187pt x 216.81pt>
+File: images/filter01.png Graphic file (type png)
+<use images/filter01.png>
+Package pdftex.def Info: images/filter01.png  used on input line 152.
+(pdftex.def)             Requested size: 308.50494pt x 65.04349pt.
 
-LaTeX Warning: The counter will not be printed.
-             The label is: \textbf {b)} on input line 155.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
+<images/filter02-dst.png, id=58, 1027.58907pt x 222.8325pt>
+File: images/filter02-dst.png Graphic file (type png)
+<use images/filter02-dst.png>
+Package pdftex.def Info: images/filter02-dst.png  used on input line 162.
+(pdftex.def)             Requested size: 308.2791pt x 66.85027pt.
 [4]
+<images/filter03.png, id=68, 1028.34187pt x 219.82124pt>
+File: images/filter03.png Graphic file (type png)
+<use images/filter03.png>
+Package pdftex.def Info: images/filter03.png  used on input line 172.
+(pdftex.def)             Requested size: 308.50494pt x 65.94687pt.
+<images/menuwire01.png, id=69, 216.05719pt x 295.1025pt>
+File: images/menuwire01.png Graphic file (type png)
+<use images/menuwire01.png>
+Package pdftex.def Info: images/menuwire01.png  used on input line 182.
+(pdftex.def)             Requested size: 140.43549pt x 191.81433pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/menuwire02.png, id=70, 688.07062pt x 549.55313pt>
+File: images/menuwire02.png Graphic file (type png)
+<use images/menuwire02.png>
+Package pdftex.def Info: images/menuwire02.png  used on input line 189.
+(pdftex.def)             Requested size: 206.42278pt x 164.8672pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 
 LaTeX Warning: The counter will not be printed.
-             The label is: \textbf {c)} on input line 174.
+             The label is: \textbf {b)} on input line 199.
 
-<images/stream1.png, id=83, 453.19313pt x 83.5622pt>
+[5 <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/filter01.png> <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/filter02-dst.png> <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/filter03.png>]
+<images/filtertftp.png, id=83, 1028.34187pt x 177.66376pt>
+File: images/filtertftp.png Graphic file (type png)
+<use images/filtertftp.png>
+Package pdftex.def Info: images/filtertftp.png  used on input line 216.
+(pdftex.def)             Requested size: 308.50494pt x 53.29953pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/pdu01.png, id=86, 1028.34187pt x 226.59656pt>
+File: images/pdu01.png Graphic file (type png)
+<use images/pdu01.png>
+Package pdftex.def Info: images/pdu01.png  used on input line 226.
+(pdftex.def)             Requested size: 308.50494pt x 67.97948pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/pdu02.png, id=87, 515.67656pt x 265.74281pt>
+File: images/pdu02.png Graphic file (type png)
+<use images/pdu02.png>
+Package pdftex.def Info: images/pdu02.png  used on input line 233.
+(pdftex.def)             Requested size: 335.18579pt x 172.73077pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/pdu03.png, id=89, 507.39563pt x 165.61874pt>
+File: images/pdu03.png Graphic file (type png)
+<use images/pdu03.png>
+Package pdftex.def Info: images/pdu03.png  used on input line 243.
+(pdftex.def)             Requested size: 329.80325pt x 107.6509pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/stream3.png, id=92, 1028.34187pt x 371.88937pt>
+File: images/stream3.png Graphic file (type png)
+<use images/stream3.png>
+Package pdftex.def Info: images/stream3.png  used on input line 253.
+(pdftex.def)             Requested size: 308.50494pt x 111.56766pt.
+<images/followstream01.png, id=93, 1028.34187pt x 312.41719pt>
+File: images/followstream01.png Graphic file (type png)
+<use images/followstream01.png>
+Package pdftex.def Info: images/followstream01.png  used on input line 259.
+(pdftex.def)             Requested size: 308.50494pt x 93.72588pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: The counter will not be printed.
+             The label is: \textbf {c)} on input line 270.
+
+[6 <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/menuwire01.png>]
+<images/stream1.png, id=107, 453.19313pt x 83.5622pt>
 File: images/stream1.png Graphic file (type png)
 <use images/stream1.png>
-Package pdftex.def Info: images/stream1.png  used on input line 182.
+Package pdftex.def Info: images/stream1.png  used on input line 278.
 (pdftex.def)             Requested size: 294.57204pt x 54.31477pt.
-<images/stream2.png, id=85, 453.19313pt x 137.7647pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/stream2.png, id=109, 453.19313pt x 137.7647pt>
 File: images/stream2.png Graphic file (type png)
 <use images/stream2.png>
-Package pdftex.def Info: images/stream2.png  used on input line 192.
+Package pdftex.def Info: images/stream2.png  used on input line 288.
 (pdftex.def)             Requested size: 294.57204pt x 89.54597pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/followstream.png, id=88, 299.61937pt x 272.51813pt>
+[7 <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/menuwire02.png> <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/filtertftp.png>]
+<images/followstream.png, id=123, 299.61937pt x 272.51813pt>
 File: images/followstream.png Graphic file (type png)
 <use images/followstream.png>
-Package pdftex.def Info: images/followstream.png  used on input line 203.
+Package pdftex.def Info: images/followstream.png  used on input line 299.
 (pdftex.def)             Requested size: 194.75027pt x 177.13467pt.
 
+
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[5 <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/stream1.png>]
 
 LaTeX Warning: The counter will not be printed.
-             The label is: \textbf {d)} on input line 216.
+             The label is: \textbf {d)} on input line 312.
 
-<images/conversation01.png, id=98, 453.19313pt x 340.27126pt>
+[8 <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/pdu01.png> <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/pdu02.png>]
+<images/conversation01.png, id=132, 453.19313pt x 340.27126pt>
 File: images/conversation01.png Graphic file (type png)
 <use images/conversation01.png>
-Package pdftex.def Info: images/conversation01.png  used on input line 226.
+Package pdftex.def Info: images/conversation01.png  used on input line 322.
 (pdftex.def)             Requested size: 294.57204pt x 221.17369pt.
-[6 <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/stream2.png> <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/followstream.png>]
-<images/statistic.png, id=105, 453.19313pt x 185.19188pt>
-File: images/statistic.png Graphic file (type png)
-<use images/statistic.png>
-Package pdftex.def Info: images/statistic.png  used on input line 236.
-(pdftex.def)             Requested size: 294.57204pt x 120.37328pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/details.png, id=107, 451.6875pt x 423.08063pt>
+<images/statistic.png, id=134, 453.19313pt x 185.19188pt>
+File: images/statistic.png Graphic file (type png)
+<use images/statistic.png>
+Package pdftex.def Info: images/statistic.png  used on input line 332.
+(pdftex.def)             Requested size: 294.57204pt x 120.37328pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/details.png, id=136, 451.6875pt x 423.08063pt>
 File: images/details.png Graphic file (type png)
 <use images/details.png>
-Package pdftex.def Info: images/details.png  used on input line 246.
+Package pdftex.def Info: images/details.png  used on input line 342.
 (pdftex.def)             Requested size: 293.59338pt x 274.99915pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[7 <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/conversation01.png>]
-Overfull \hbox (41.65172pt too wide) in paragraph at lines 276--320
- [][] 
- []
-
-[8 <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/statistic.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 336--336
-[]|\T1/cmr/m/n/9 Whiteboxes,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 336--336
-\T1/cmr/m/n/9 Rou-ters, An-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 338--338
-[]|\T1/cmr/m/n/9 TCP Re-trans-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 338--338
-[]|\T1/cmr/m/n/9 Whiteboxes,
- []
-
-
-Underfull \hbox (badness 4582) in paragraph at lines 340--340
-[]|\T1/cmr/m/n/9 Burst down-load
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 340--340
-[]|\T1/cmr/m/n/9 Whiteboxes,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 342--342
-[]|\T1/cmr/m/n/9 Whiteboxes,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 344--344
-[]|\T1/cmr/m/n/9 Percentage of
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 344--344
-[]|\T1/cmr/m/n/9 Whiteboxes,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 346--346
-[]|\T1/cmr/m/n/9 Percentage of
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 346--346
-[]|\T1/cmr/m/n/9 Whiteboxes,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 348--348
-[]|\T1/cmr/m/n/9 Download
- []
-
-
-Underfull \hbox (badness 3302) in paragraph at lines 348--349
-[]|\T1/cmr/m/n/9 The down-load speed in Mbps
- []
-
-
-Underfull \hbox (badness 1394) in paragraph at lines 348--349
-\T1/cmr/m/n/9 using HTML5 APIs(WebSockets
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 350--350
-[]|\T1/cmr/m/n/9 Download
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 350--350
-\T1/cmr/m/n/9 (Lightweight
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 350--350
-[]|\T1/cmr/m/n/9 Whiteboxes,
- []
-
-
-Underfull \hbox (badness 3189) in paragraph at lines 352--352
-\T1/cmr/m/n/9 ware ac-ce-le-ra-te-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 352--352
-[]|\T1/cmr/m/n/9 Broadcom-based
- []
-
-
-Overfull \hbox (11.19464pt too wide) in alignment at lines 329--355
- [] [] [] [] 
- []
-
-
-Overfull \vbox (256.74649pt too high) has occurred while \output is active []
-
- [9 <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/details.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 381.
- [10
-
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 381.
+[9 <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/pdu03.png> <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/stream3.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 364.
+ [10 <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/followstream01.png> <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/stream1.png>] [11 <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/stream2.png> <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/followstream.png>] [12 <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/conversation01.png> <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/statistic.png>] [13 <c:/Users/Matheus/OneDrive - Universidade do Minho/MERSTEL/Semestre-02/Modelação e Caraterização de Tráfego/TP2/LaTex_Templates/TP - Templates/images/details.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 364.
  ("c:/Users\Matheus\OneDrive - Universidade do Minho\MERSTEL\Semestre-02\Modelação e Caraterização de Tráfego\TP2\LaTex_Templates\TP - Templates\main.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 381.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 381.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 364.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 364.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 74ECCBFCD92CF863FA8EF1921B9D2D68;486.
+(rerunfilecheck)             Checksum: 884A15197268EAD6B17C90B22FC3700A;328.
  ) 
 Here is how much of TeX's memory you used:
- 13198 strings out of 481311
- 236138 string characters out of 2907188
- 519460 words of memory out of 3000000
- 28397 multiletter control sequences out of 15000+200000
- 548303 words of font info for 66 fonts, out of 3000000 for 9000
+ 13268 strings out of 481311
+ 237554 string characters out of 2907188
+ 511965 words of memory out of 3000000
+ 28451 multiletter control sequences out of 15000+200000
+ 547966 words of font info for 65 fonts, out of 3000000 for 9000
  1142 hyphenation exceptions out of 8191
- 35i,12n,41p,966b,944s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Matheus\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0900.pk> <C:\Users\Matheus\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Matheus\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Matheus\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Matheus\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Matheus\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\Matheus\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk> <C:\Users\Matheus\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk> <C:\Users\Matheus\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk><C:/Users/Matheus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Matheus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Users/Matheus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on "c:/Users\Matheus\OneDrive - Universidade do Minho\MERSTEL\Semestre-02\Modelação e Caraterização de Tráfego\TP2\LaTex_Templates\TP - Templates\main.pdf" (10 pages, 653631 bytes).
+ 35i,9n,41p,968b,948s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Matheus\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1000.pk> <C:\Users\Matheus\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\Matheus\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Matheus\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\Users\Matheus\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\Matheus\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk> <C:\Users\Matheus\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk> <C:\Users\Matheus\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk><C:/Users/Matheus/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
+Output written on "c:/Users\Matheus\OneDrive - Universidade do Minho\MERSTEL\Semestre-02\Modelação e Caraterização de Tráfego\TP2\LaTex_Templates\TP - Templates\main.pdf" (13 pages, 872017 bytes).
 PDF statistics:
- 515 PDF objects out of 1000 (max. 8388607)
- 40 named destinations out of 1000 (max. 500000)
- 105 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 506 PDF objects out of 1000 (max. 8388607)
+ 46 named destinations out of 1000 (max. 500000)
+ 136 words of extra memory for PDF output out of 10000 (max. 10000000)
 
