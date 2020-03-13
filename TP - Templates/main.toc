@@ -1,9 +1,0 @@
-\babel@toc {brazilian}{}
-\contentsline {chapter}{Sum\'ario}{2}{chapter*.1}%
-\contentsline {section}{Objetivo}{3}{section*.2}%
-\contentsline {section}{Parte I - Captura e análise de tráfego}{3}{section*.3}%
-\contentsline {section}{Parte 2 - Filtragem de tráfego}{4}{section*.4}%
-\contentsline {section}{Conclusão}{5}{section*.5}%
-\contentsline {section}{Resultados}{6}{section*.6}%
-\contentsline {section}{Anexo I}{7}{section*.7}%
-\contentsline {chapter}{Refer\^encias}{8}{chapter*.8}%
